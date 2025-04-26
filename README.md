@@ -15,6 +15,7 @@ This is a solution to the [Single Price Grid Component challenge on Frontend Men
   - [Useful Resources](#useful-resources)
 - [Author](#author)
 
+
 ## Overview
 
 ### The Challenge
@@ -26,13 +27,15 @@ Users should be able to:
 
 ### Screenshot
 
-<!-- Add your screenshot once the project is complete -->
-![](./screenshot.jpg)
+
+![Screenshot](images/Screenshot.png)
+![Screenshot](images/Screenshot1.png)
 
 ### Links
 
-- Solution URL: [Add your solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add your live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add your solution URL here]
+(https://www.frontendmentor.io/solutions/single-price-grid-component-using-html5-css3-flexbox-and-grid-ercpKJMmQx)
+- Live Site URL: [Add your live site URL here](https://moonlit-caramel-27ccab.netlify.app/)
 
 ## My Process
 
@@ -68,7 +71,7 @@ In the future, I would like to:
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@Sne210303](https://www.frontendmentor.io/profile/Sne210303)
+- Twitter - [@Snenhla79084643](https://x.com/Snenhla79084643)
 
 
